@@ -1,0 +1,9 @@
+my_build/qEEGs/
+my_build/result/
+my_build/data/
+my_build/norm/
+
+HarMNqEEG/data/example/
+HarMNqEEG/data/ShareRawData/
+HarMNqEEG/result/
+HarMNqEEG/data/norm/
