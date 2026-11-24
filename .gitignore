@@ -1,9 +1,8 @@
-my_build/qEEGs/
-my_build/result/
-my_build/data/
 my_build/norm/
+my_build/EEGs/
+my_build/data/
+my_build/intermediate_result/
+my_build/result/
 
-HarMNqEEG/data/example/
-HarMNqEEG/data/ShareRawData/
+HarMNqEEG/data/
 HarMNqEEG/result/
-HarMNqEEG/data/norm/
